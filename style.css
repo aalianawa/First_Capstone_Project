@@ -1,0 +1,124 @@
+.header-section{
+    background-image: url("Section\ 5.svg");
+    background-repeat: no-repeat;
+    max-width: 100%;
+    height: 600px;
+    align-items: center;
+    background-size: cover;
+}
+
+.logo{
+    margin-left: 120px;
+    font-size: 14px !important;
+}
+
+.nav-txt{
+    margin-left: 495px !important;
+    font-size: 10px !important;
+}
+.header-text{
+    margin-top: 140px;
+}
+
+
+.nav-button-color{
+    background-color: white !important;
+    color: #344767 !important;
+}
+.button-colorr{
+    background-color: white !important;
+    color: black !important;
+}
+.backgroun-color{
+    background-color: rgb(238, 239, 240) !important;
+}
+.back-color{
+    background-color: #cac8c8;
+    padding: 70px;
+   
+}
+
+.card-tittle{
+    color: #344767;
+    
+}
+.card-txt{
+    color: #7B809A;
+    font-size: 11px;
+
+}
+
+.card-text-1{
+    color: rgba(123, 128, 154, 1);
+    font-size: 20px;
+}
+
+.card{
+    width: 390px;
+}
+.img-fluid{
+    margin-left: 70px;
+}
+.bg-seting{
+    background-color: white;
+    font-size: small;
+}
+
+ .card-horizontal {
+    display: flex;
+    background-color: #FFFF;
+    background-repeat: no-repeat;
+    width: 480px !important;   
+} 
+
+.card-text-2{
+    font-size: 10px;
+    color: #7B809A;
+}
+.cards-section{
+    background-color: rgb(28, 28, 66);
+    padding-left: 60px !important;
+    padding-right: 60px !important;
+}
+.card-titl{
+    color: #344767;
+}
+.heading-tag{
+    color: #1A73E7;
+}
+.cards-setting{
+    padding-left: 70px;
+}
+.text-body{
+    color: #344767 !important;
+   
+}
+
+.card-title-1{
+    color: rgb(43, 43, 240) !important;
+}
+.card-text{
+    font-size: 10px;
+    color:#7B809A !important;
+}
+
+.btn-colour{
+    background-color: rgb(53, 53, 177) !important;
+  
+}
+.input-filed{
+    border-radius:  white !important;
+    background-color: #FFFF!important;
+}
+.favourite-text{
+    font-size: 10px;
+}
+.favourite-divs{
+    padding-left: 80px !important;
+    padding-right: 80px !important;
+    /* padding: 80px; */
+    background-color: #cac8c8;
+}
+.footer{
+    background-color: #999ba1 !important;
+}
